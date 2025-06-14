@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Neg\\GestionEtudiantsCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|d:\\neg\\gestionetudiantscrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|d:\\neg\\gestionetudiantscrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|d:\\neg\\gestionetudiantscrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|d:\\neg\\gestionetudiantscrud\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|d:\\neg\\gestionetudiantscrud\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F388AC2A-CB87-4B4C-84A9-A0002CAF5CC3}|GestionEtudiantsCRUD.csproj|solutionrelative:program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Neg\\GestionEtudiantsCRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Neg\\GestionEtudiantsCRUD\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:03:19.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Neg\\GestionEtudiantsCRUD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Neg\\GestionEtudiantsCRUD\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAE8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:48:53.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "D:\\Neg\\GestionEtudiantsCRUD\\Program1.cs",
+              "RelativeDocumentMoniker": "Program1.cs",
+              "ToolTip": "D:\\Neg\\GestionEtudiantsCRUD\\Program1.cs",
+              "RelativeToolTip": "Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:47:30.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Neg\\GestionEtudiantsCRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Neg\\GestionEtudiantsCRUD\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:43:13.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB.cs",
+              "DocumentMoniker": "D:\\Neg\\GestionEtudiantsCRUD\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "D:\\Neg\\GestionEtudiantsCRUD\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:45:47.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
